@@ -17,6 +17,7 @@ I'm a Full Stack Software Engineer in US. I like to try out new technologies and
 - 🌱 I’m currently learning **[Solidity](https://soliditylang.org/) and [Rust](https://www.rust-lang.org/)
 - 👯 I’m looking to collaborate on **new and exciting projects**
 
+
 <br>
 <br>
 
@@ -29,7 +30,7 @@ These are languages, tools, and technologies I either use at work or enjoy using
             src="img/ethereum_logo.png"
             alt="Ethereum" height="48px" style="max-width: 100%;"> </a>
     <a href="https://soliditylang.org" rel="nofollow"> <img align="left"
-            src="img/solidity_logo.svg"
+            src="img/solidity_logo.png"
             alt="Solidity" height="48px" style="max-width: 100%;"> </a>
     <a href="https://hardhat.org/" rel="nofollow"><img align="left" alt="Hardhat" height="42px"
             src="img/hardhat_logo.svg"
