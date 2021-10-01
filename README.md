@@ -10,7 +10,7 @@
 
 I'm a Full Stack Software Engineer working in US. I like to try out new technologies and currently learning things to transform myself into blockchain developer. Currently learning solidity and rust.
 
-<img align="right" src="img/polkadot_logo.png" alt="dotsama" width="350" height="440"/>
+<img align="right" src="img/polkadot_logo.png" alt="dotsama" width="350" height="400"/>
 
 ## About me
 
@@ -23,7 +23,7 @@ I'm a Full Stack Software Engineer working in US. I like to try out new technolo
 - 👯 I’m looking to collaborate on **new and exciting projects**
 - I am also cloud lover and worked on all the major cloud platforms (AWS, Azure and Google Cloud)
 
-<img align="center" src="img/kylin_logo.png" alt="kylin" width="550"/>
+<img align="center" src="img/kylin_logo.png" alt="kylin" width="450"/>
 
 <br>
 <br>
