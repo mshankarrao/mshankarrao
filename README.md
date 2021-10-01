@@ -12,6 +12,7 @@ I'm a Full Stack Software Engineer working in US. I like to try out new technolo
 
 
 <img align="right" src="img/polkadot_logo.png" alt="dotsama" width="300" height="300"/>
+
 ## About me
 
 
