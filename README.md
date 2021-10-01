@@ -10,13 +10,13 @@
 
 I'm a Full Stack Software Engineer working in US. I like to try out new technologies and currently learning things to transform myself into blockchain developer. Currently learning solidity and rust.
 
-<img align="right" src="img/polkadot_logo.png" alt="dotsama" width="350" height="400"/>
 
+<img align="right" src="img/polkadot_logo.png" alt="dotsama" width="300" height="300"/>
 ## About me
 
 
 - Blockchain Enthusiast
-- Polkadot and Kylin Lover
+- Polkadot and [Kylin](https://kylin.network/) Lover
 - Reach me to collaborate on any new projects 
 - I like to read technical books specially related to blockchain technologies
 - 🌱 I’m currently learning **[Solidity](https://soliditylang.org/) and [Rust](https://www.rust-lang.org/)
@@ -25,9 +25,6 @@ I'm a Full Stack Software Engineer working in US. I like to try out new technolo
 
 <img align="center" src="img/kylin_logo.png" alt="kylin" width="450"/>
 
-<br>
-<br>
-<br>
 <br>
 
 ## 🔨Languages, Tools & Tech 👷
