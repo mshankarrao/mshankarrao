@@ -23,7 +23,7 @@ I'm a Full Stack Software Engineer working in US. I like to try out new technolo
 - 👯 I’m looking to collaborate on **new and exciting projects**
 - I am also cloud lover and worked on all the major cloud platforms (AWS, Azure and Google Cloud)
 
-<img align="center" src="img/kylin_logo.png" alt="dotsama" width="550"/>
+<img align="center" src="img/kylin_logo.png" alt="kylin" width="550"/>
 
 <br>
 <br>
