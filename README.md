@@ -8,7 +8,7 @@
 
 # Hi there 👨‍🚀
 
-I'm a Full Stack Software Engineer working in US. I like to try out new technologies and currently learning things to transform myself into blockchain developer. Currently learning solidity and rust.
+I'm a Full Stack Software Engineer working in US. I like to try out new technologies and currently learning things to transform myself into blockchain developer. Self learned solidity and rust.
 
 
 <img align="right" src="img/polkadot_logo.png" alt="dotsama" width="300" height="300"/>
