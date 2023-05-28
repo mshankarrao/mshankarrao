@@ -6,6 +6,8 @@
             alt="LinkedIn" height="36px" style="max-width: 100%;"> </a>
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mshankarrao&label=Profile%20views&color=0e75b6&style=flat" alt="Evolution" /> </p>
+
 # Hi there 👨‍🚀
 
 I'm a Full Stack Software Engineer working in US. I like to try out new technologies and currently learning things to transform myself into blockchain developer. Self learned solidity and rust.
