@@ -22,7 +22,7 @@ I'm a Full Stack Software Engineer working in US. I like to try out new technolo
 - Polkadot Lover
 - Reach me to collaborate on any new projects 
 - I like to read technical books specially related to blockchain technologies
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
+- Rust lover
 - I am cloud lover and worked on all the major cloud platforms (AWS, Azure and Google Cloud)
 
 <br>
